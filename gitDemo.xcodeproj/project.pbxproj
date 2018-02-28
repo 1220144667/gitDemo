@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		B53D9ABE20469A5A0091B931 /* TestViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = B53D9ABD20469A5A0091B931 /* TestViewController.m */; };
 		B584E1222046851700CF2A2E /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = B584E1212046851700CF2A2E /* AppDelegate.m */; };
 		B584E1252046851700CF2A2E /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = B584E1242046851700CF2A2E /* ViewController.m */; };
 		B584E1282046851700CF2A2E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B584E1262046851700CF2A2E /* Main.storyboard */; };
@@ -35,6 +36,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		B53D9ABC20469A5A0091B931 /* TestViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = TestViewController.h; sourceTree = "<group>"; };
+		B53D9ABD20469A5A0091B931 /* TestViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TestViewController.m; sourceTree = "<group>"; };
 		B584E11D2046851700CF2A2E /* gitDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = gitDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B584E1202046851700CF2A2E /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		B584E1212046851700CF2A2E /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
@@ -105,6 +108,8 @@
 				B584E1212046851700CF2A2E /* AppDelegate.m */,
 				B584E1232046851700CF2A2E /* ViewController.h */,
 				B584E1242046851700CF2A2E /* ViewController.m */,
+				B53D9ABC20469A5A0091B931 /* TestViewController.h */,
+				B53D9ABD20469A5A0091B931 /* TestViewController.m */,
 				B584E1262046851700CF2A2E /* Main.storyboard */,
 				B584E1292046851700CF2A2E /* Assets.xcassets */,
 				B584E12B2046851700CF2A2E /* LaunchScreen.storyboard */,
@@ -267,6 +272,7 @@
 			files = (
 				B584E1252046851700CF2A2E /* ViewController.m in Sources */,
 				B584E1302046851700CF2A2E /* main.m in Sources */,
+				B53D9ABE20469A5A0091B931 /* TestViewController.m in Sources */,
 				B584E1222046851700CF2A2E /* AppDelegate.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
